@@ -1,0 +1,2 @@
+# oqtri
+Repo pertamaku
